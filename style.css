@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+a{
+	text-decoration:none;
+	color:#FFF;
+}
+
+body{
+	background:url(Pic/bg.jpg);
+
+}
+
+.main{
+	width:80%;
+	margin-left:10%;
+	margin-top:-15px;
+	border:5px solid #FFF;
+	background-color:#E04E1F;
+}
+
+.header{
+	width:80%;
+	margin-left:10%;
+	margin-top:30px;
+	height:75px;
+}
+
+.a{
+	display:inline-block;
+}
+
+.join{
+	background-image:url(Pic/jj.png);
+	background-repeat:no-repeat;
+	background-size:100%;
+	display:inline-block;
+	width:15%;
+	height:38px;
+	margin-left:65%;
+	vertical-align:text-top;
+	margin-top:-40px;
+
+}
+
+.dbb{
+	width:80%;
+	margin-left:10%;
+	margin-top:20px;
+}
+
+.bb{
+	width:100%;
+}
+
+.about{
+	width:80%;
+	margin-left:10%;
+	margin-top:30px;
+	color:#FFF;
+
+}
+
+.aaa{
+	display:inline-block;
+	width:100%;
+
+	border-top:5px solid #FFF;
+	border-bottom:5px solid #FFF;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+.bbb{
+	text-decoration:none;
+	width:100%;
+}
+
+.bb{
+	font-weight:bold;
+	font-size:24px;
+	
+}
+
+.lll{
+	vertical-align:text-top;
+	margin-left:35%
+}
+
+.white{
+	background-color:#FFF;
+	width:100%;
+	margin-top:20px;
+	height:auto;
+	vertical-align:central;
+}
+
+.img1{
+	margin-left:26%;
+	margin-top:15px;
+	width:48%;
+}
+
+.img2{
+	width:100%;
+}
+
+.info{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	margin-top:20px;
+	margin-bottom:70px;
+}
